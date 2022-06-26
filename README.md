@@ -10,20 +10,21 @@ Blog Post : https://sockpuppets.medium.com/how-i-hacked-ctx-and-phpass-modules-6
 
 # How to run the project? :thinking:
  - Clone github repository in your local system  `git clone https://github.com/aydinnyunus/pypi-check.git`
- - Move in WhatsappBOT repository  `cd pypi-check`
+ - Move in pypi-check repository  `cd pypi-check`
  - Create new virtual python environment  `python3 -m venv venv`
  - Activate virtual python environment  `source venv/bin/activate`
  - Install all the libraries mentioned in [requirements.txt](https://github.com/aydinnyunus/pypi-check/blob/master/requirements.txt) using  `pip install -r requirements.txt`
  - Run Python file  `python main.py`
 
 ![How Attack works](https://m7a3i4k5.rocketcdn.me/wp-content/uploads/2022/06/Blog-screenshot_Supply-Chain-Attack_pypi-diagram-1.png)
+
 Image Source : https://orca.security/resources/blog/python-supply-chain-attack-ctx-phpass/
 
 
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/aydinnyunus/pypi-check/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/aydinnyunus/WhatsappBOT/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/aydinnyunus/pypi-check/issues/new). Please include sample queries and their corresponding results.
 
 It is my first application with GUI.Thank you !.
 
